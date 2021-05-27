@@ -1,4 +1,4 @@
-![cover](https://github.com/piotrGronowski/piotrgronowski.github.io/tree/source/public/og-wtf.png)
+![cover](https://piotrgronowski.github.io/og-wtf.png)
 
 # Piotr Gronowski JUNIOR FRONTEND DEVELOPER
 
